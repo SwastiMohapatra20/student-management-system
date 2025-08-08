@@ -23,7 +23,7 @@ Built using **Python, Tkinter, ttkbootstrap**, and **SQLite**, it delivers fast 
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light Mode Screenshot](screenshots/light.png) | ![Dark Mode Screenshot](screenshots/dark.png) |
+| ![Light Mode Screenshot](Screenshot (2).png) | ![Dark Mode Screenshot](Screenshot (3).png) |
 
 ---
 
