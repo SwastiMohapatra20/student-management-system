@@ -23,7 +23,8 @@ Built using **Python, Tkinter, ttkbootstrap**, and **SQLite**, it delivers fast 
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light Mode Screenshot](Screenshot (2).png) | ![Dark Mode Screenshot](Screenshot (3).png) |
+| ![Light Mode Screenshot](<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/88bdee64-913d-473c-9aff-671e4227782e" />) | ![Dark Mode Screenshot](<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/c16b9506-5d11-48cb-86d4-78f2cd32e7e5" />) |
+
 
 ---
 
@@ -32,6 +33,7 @@ Built using **Python, Tkinter, ttkbootstrap**, and **SQLite**, it delivers fast 
 ### Prerequisites
 - Python 3.8 or later  
 - `pip` package manager
+
 
 ### 1️⃣ Clone the repository
 ```bash
