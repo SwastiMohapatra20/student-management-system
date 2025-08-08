@@ -20,11 +20,13 @@ Built using **Python, Tkinter, ttkbootstrap**, and **SQLite**, it delivers fast 
 ---
 
 ## 🖼 Screenshots
-
 <table>
 <tr>
-<td><img src="/Screenshot(2).png" width="600"></td>
-<td><img src="Screenshot(3).png" width="600"></td>
+<p align="center">
+  <img src="https://i.imghippo.com/files/jjID3563bDY.png" width="600">
+</p>
+
+
 </tr>
 </table>
 
